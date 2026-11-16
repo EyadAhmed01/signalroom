@@ -2,6 +2,8 @@
 
 SignalRoom is a live decision workspace for small teams. A team frames one consequential choice, adds evidence for and against it, records individual confidence, sees who is present, and asks an AI analyst to synthesize the strongest case or unresolved risk.
 
+**Live app:** [signalroom-decisions.app.space](https://signalroom-decisions.app.space)
+
 ## Why this scope
 
 The app is intentionally narrower than a project manager or team chat. Those products already have places for conversation; SignalRoom makes the decision trail itself the shared object. That made it possible to finish and verify one strong multi-user loop instead of shipping several shallow features.
